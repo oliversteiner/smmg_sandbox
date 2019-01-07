@@ -1,0 +1,14 @@
+{
+  "name": "drupal/smmg_sandbox",
+  "type": "drupal-module",
+  "description": "Sandbox Module for Small Messages",
+  "keywords": ["Drupal"],
+  "license": "GPL-3.0+",
+  "homepage": "https://www.drupal.org/project/smmg_sandbox",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/smmg_sandbox",
+    "source": "http://cgit.drupalcode.org/smmg_sandbox"
+  },
+  "require": { }
+}
