@@ -17,7 +17,7 @@ use Drupal\Tests\UnitTestCase;
 /**
  * Simple test to ensure that asserts pass.
  *
- * @group smmg_sandbox
+ * @group smmg
  */
 class UnitTest extends UnitTestCase
 {
